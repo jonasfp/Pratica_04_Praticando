@@ -5,6 +5,6 @@ package Pratica_04_Praticando;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return false;
+        return true;
     }
 }
